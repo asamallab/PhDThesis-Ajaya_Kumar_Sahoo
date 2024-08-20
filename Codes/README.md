@@ -1,4 +1,4 @@
-This folder contains the following Jupyter Notebooks and R script used to filter different data and perform analysis reported in this thesis:
+This folder contains the following Jupyter Notebooks and R script used to filter different datasets and perform computational analysis reported in this thesis:
 
 1) [AOPWoEComputation.ipynb](https://github.com/asamallab/PhDThesis-Ajaya_Kumar_Sahoo/blob/main/Codes/AOPWoEComputation.ipynb): Compute weight of evidence for AOPs using their KER information
 2) [CGPDTetramersConstruction.ipynb](https://github.com/asamallab/PhDThesis-Ajaya_Kumar_Sahoo/blob/main/Codes/CGPDTetramersConstruction.ipynb): Construct chemical-gene-phenotype-disease tetramers for chemicals using data from CTD and NCBI Gene resource
