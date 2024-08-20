@@ -1,4 +1,4 @@
-<h2> This repository contains the supplementary information and figures associated with PhD thesis titled: </h2>
+<h2> This repository contains the supplementary information, figures and codes associated with PhD thesis titled: </h2>
 <h2 align="center"> Computational data-driven investigation of chemical exposome and its links to human and ecosystem health </h2>
 <h2 align="center"> Author:</h2> 
 <h2 align="center"> Ajaya Kumar Sahoo </h2>
